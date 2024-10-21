@@ -7,6 +7,12 @@ export default {
   theme: {
     extend: {},
   },
+  colors: {
+    customBlue: 'rgb(2, 46, 80)',
+  },
+  fontFamily: {
+    poppins: ['Poppins', 'sans-serif'],
+  },
   plugins: [],
 }
 
