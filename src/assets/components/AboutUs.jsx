@@ -7,7 +7,7 @@ export default function AboutUs(){
         <>
             <div className="bg-[#D1FFD1] h-[837px] w-[1440px] mx-auto">
                 <nav className="flex justify-between  items-center  h-[80px] w-[80vw] mx-auto">
-                    <div className="flex items-center relative"><img  src="/public/assets/img/logo.png" alt="" /><span className="font-poppins text-lg font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span ><span className="text-[#51B504] font-poppins text-lg font-bold leading-[30px] text-left">Finds</span></div>
+                    <div className="flex items-center relative"><img  src="assets/img/logo.png" alt="" /><span className="font-poppins text-lg font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span ><span className="text-[#51B504] font-poppins text-lg font-bold leading-[30px] text-left">Finds</span></div>
                     <ul className="flex gap-[30px] items-center  h-[44px]  font-poppins font-[500] leading-[24x] text-lg">
                         <li className="p-[10px]">Home</li>
                         <li className="p-[10px]">About Us</li>
@@ -29,7 +29,7 @@ export default function AboutUs(){
                     </div>
                     <div className="w-[40vw]">
                         <div>
-                            <img className="w-[672px] h-[504px]" src="/public/assets/img/hero picture.png" alt="" />
+                            <img className="w-[672px] h-[504px]" src="assets/img/hero picture.png" alt="" />
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ export default function AboutUs(){
 
                         <span className="text-3xl font-bold mr-[40px]">True Design is Invisible</span>
                         <div className="flex items-center relative mr-[40px]">
-                            <img  src="/public/assets/img/logo.png" alt="" />
+                            <img  src="assets/img/logo.png" alt="" />
                             <span className="font-poppins text-3xl font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span >
                             <span className="text-[#51B504] font-poppins text-3xl font-bold leading-[30px] mr-[40px] text-left">Finds</span>
                         </div>
@@ -51,35 +51,35 @@ export default function AboutUs(){
 
                         <span className="text-3xl font-bold mr-[40px]">True Design is Invisible</span>
                         <div className="flex items-center relative mr-[40px]">
-                            <img  src="/public/assets/img/logo.png" alt="" />
+                            <img  src="assets/img/logo.png" alt="" />
                             <span className="font-poppins text-3xl font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span >
                             <span className="text-[#51B504] font-poppins text-3xl font-bold leading-[30px] text-left mr-[40px]">Finds</span>
                         </div>
                         <span className="text-3xl font-bold mr-[40px]">We Make Solutions Simple</span>
                         <span className="text-3xl font-bold mr-[40px]">True Design is Invisible</span>
                         <div className="flex items-center relative mr-[40px]">
-                            <img  src="/public/assets/img/logo.png" alt="" />
+                            <img  src="assets/img/logo.png" alt="" />
                             <span className="font-poppins text-3xl font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span >
                             <span className="text-[#51B504] font-poppins text-3xl font-bold leading-[30px] text-left mr-[40px]">Finds</span>
                         </div>
                         <span className="text-3xl font-bold mr-[40px]">We Make Solutions Simple</span>
                         <span className="text-3xl font-bold mr-[40px]">True Design is Invisible</span>
                         <div className="flex items-center relative mr-[40px]">
-                            <img  src="/public/assets/img/logo.png" alt="" />
+                            <img  src="assets/img/logo.png" alt="" />
                             <span className="font-poppins text-3xl font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span >
                             <span className="text-[#51B504] font-poppins text-3xl font-bold leading-[30px] text-left mr-[40px]">Finds</span>
                         </div>
                         <span className="text-3xl font-bold mr-[40px]">We Make Solutions Simple</span>
                         <span className="text-3xl font-bold mr-[40px]">True Design is Invisible</span>
                         <div className="flex items-center relative mr-[40px]">
-                            <img  src="/public/assets/img/logo.png" alt="" />
+                            <img  src="assets/img/logo.png" alt="" />
                             <span className="font-poppins text-3xl font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span >
                             <span className="text-[#51B504] font-poppins text-3xl font-bold leading-[30px] text-left mr-[40px]">Finds</span>
                         </div>
                         <span className="text-3xl font-bold mr-[40px]">We Make Solutions Simple</span>
                         <span className="text-3xl font-bold mr-[40px]">True Design is Invisible</span>
                         <div className="flex items-center relative mr-[40px]">
-                            <img  src="/public/assets/img/logo.png" alt="" />
+                            <img  src="assets/img/logo.png" alt="" />
                             <span className="font-poppins text-3xl font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span >
                             <span className="text-[#51B504] font-poppins text-3xl font-bold leading-[30px] text-left mr-[40px]">Finds</span>
                         </div>
