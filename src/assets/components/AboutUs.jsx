@@ -22,8 +22,8 @@ export default function AboutUs(){
                         <p className="text-lg font-poppins p-[10px] w-[30vw] font-[500]">
                         We help businesses like yours earn more customers, standout from competitors,  make more money
                         </p>
-                        <span>
-                            <button className="bg-[#51B504] text-[#FFFFFF] pt-[20px] pr-[30px] pb-[20px] pl-[30px] rounded-[16px] text-lg mt-[10px]">Get Started</button>
+                        <span className="pl-[10px]">
+                            <button className="bg-[#51B504] text-[#FFFFFF] pt-[20px] pr-[30px] pb-[20px] pl-[30px] rounded-[16px] text-lg mt-[10px] font-bold">Get Started</button>
 
                         </span>
                     </div>
