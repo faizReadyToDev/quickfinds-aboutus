@@ -17,3 +17,8 @@
 .logo-slide{
     animation: 10s slideHero infinite linear;
 }
+
+#root{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
