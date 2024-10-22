@@ -31,14 +31,14 @@ export default function AboutUs(){
 
                         </span>
                     </div>
-                    <div className="w-[40vw]">
+                    <div className="w-[40vw] flex justify-center items-center">
                         <div>
                             <img className="w-[672px] h-[504px]" src="assets/img/hero picture.png" alt="" />
                         </div>
                     </div>
                 </div>
                 <div className="logo-animation bg-white pt-[30px] pb-[30px] overflow-hidden">
-                    <div className="logo-slide flex items-center  gap-[30px] whitespace-nowrap">
+                    <div className="logo-slide flex items-center  gap-[30px] whitespace-nowrap h-[10vh]">
 
 
 
@@ -96,8 +96,11 @@ export default function AboutUs(){
                       
                     </div>
                 </div>
+                    
             </div>
+            <div className="h-[5vh] bg-[#D1FFD1]">
 
+            </div>
 
         </>
     )
