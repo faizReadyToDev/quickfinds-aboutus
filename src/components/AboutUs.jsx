@@ -26,8 +26,10 @@ export default function AboutUs(){
                         </div>
                     </div>
                     <div className=" flex flex-col justify-center xs:items-center">
-                        <h1 className="lg:text-5xl sm:text-2xl xs:text-2xl font-bold font-poppins w-[40vw] xs:w-[100vw] xs:text-center">Innovative solutions</h1>
-                        <h1 className="lg:text-5xl sm:text-2xl xs:text-2xl font-bold font-poppins w-[40vw] pb-[10px] xs:w-[100vw] xs:text-center">for a better world!</h1>
+                        <h1 className="lg:text-5xl sm:text-2xl xs:text-2xl font-bold font-poppins w-[40vw] xs:w-[100vw] xs:text-center xs:hidden">Innovative solutions</h1>
+                        <h1 className="lg:text-5xl sm:text-2xl xs:text-2xl font-bold font-poppins w-[40vw] pb-[10px] xs:w-[100vw] xs:text-center xs:hidden">for a better world!</h1>
+                        <h1 className="lg:text-5xl sm:text-2xl xs:text-2xl font-bold font-poppins w-[40vw] xs:w-[100vw] xs:text-center hidden xs:block">Innovative solutions for a</h1>
+                        <h1 className="lg:text-5xl sm:text-2xl xs:text-2xl font-bold font-poppins w-[40vw] pb-[10px] xs:w-[100vw] xs:text-center hidden xs:block">better world!</h1>
                     <p className="text-lg font-poppins w-[30vw] xl:text-base lg:text-sm sm:text-xs font-[500] xs:w-[70vw] xs:text-center xs:text-base">
                         We help businesses like yours earn more customers,standout from competitors,  make more money
                         </p>
@@ -43,8 +45,8 @@ export default function AboutUs(){
                         </div>
                     </div>
                 </div>
-                <div className="logo-animation bg-white lg:pt-[30px] lg:pb-[30px] overflow-hidden xs:mt-[20px] xs:pt-[10px] xs:pb-[10px] sm:pt-[15px] sm:pb-[15px]">
-                    <div className="logo-slide flex items-center  gap-[30px] whitespace-nowrap h-[10vh]">
+                <div className="logo-animation bg-white lg:pt-[30px] lg:pb-[30px] overflow-hidden xs:mt-[15px] xs:pt-[0px] xs:pb-[0px] sm:pt-[15px] sm:pb-[15px]">
+                    <div className="logo-slide flex items-center  gap-[30px] whitespace-nowrap lg:h-[10vh] md:h-[5vh] xs: h-[7vh]">
 
 
 
@@ -55,35 +57,8 @@ export default function AboutUs(){
                             <span className="text-[#51B504] font-poppins lg:text-3xl xs:text-lg sm:text-xl font-bold leading-[30px] mr-[40px] text-left">Finds</span>
                         </div>
                         <span className="lg:text-3xl xs:text-lg sm:text-xl font-bold mr-[40px]">We Make Solutions Simple</span>
-                        <span className="lg:text-3xl xs:text-lg font-bold mr-[40px] sm:text-xl">True Design is Invisible</span>
-                        <div className="flex items-center relative mr-[40px]">
-                            <img  src="assets/img/Logo.png" alt="" />
-                            <span className="font-poppins lg:text-3xl xs:text-lg sm:text-xl font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span >
-                            <span className="text-[#51B504] font-poppins lg:text-3xl xs:text-lg sm:text-xl font-bold leading-[30px] mr-[40px] text-left">Finds</span>
-                        </div>
-                        <span className="lg:text-3xl xs:text-lg sm:text-xl font-bold mr-[40px]">We Make Solutions Simple</span>
-                        <span className="lg:text-3xl xs:text-lg font-bold mr-[40px] sm:text-xl">True Design is Invisible</span>
-                        <div className="flex items-center relative mr-[40px]">
-                            <img  src="assets/img/Logo.png" alt="" />
-                            <span className="font-poppins lg:text-3xl xs:text-lg sm:text-xl font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span >
-                            <span className="text-[#51B504] font-poppins lg:text-3xl xs:text-lg sm:text-xl font-bold leading-[30px] mr-[40px] text-left">Finds</span>
-                        </div>
-                        <span className="lg:text-3xl xs:text-lg sm:text-xl font-bold mr-[40px]">We Make Solutions Simple</span>
-                        <span className="lg:text-3xl xs:text-lg font-bold mr-[40px] sm:text-xl">True Design is Invisible</span>
-                        <div className="flex items-center relative mr-[40px]">
-                            <img  src="assets/img/Logo.png" alt="" />
-                            <span className="font-poppins lg:text-3xl xs:text-lg sm:text-xl font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span >
-                            <span className="text-[#51B504] font-poppins lg:text-3xl xs:text-lg sm:text-xl font-bold leading-[30px] mr-[40px] text-left">Finds</span>
-                        </div>
-                        <span className="lg:text-3xl xs:text-lg sm:text-xl font-bold mr-[40px]">We Make Solutions Simple</span>
-                        <span className="lg:text-3xl xs:text-lg font-bold mr-[40px] sm:text-xl">True Design is Invisible</span>
-                        <div className="flex items-center relative mr-[40px]">
-                            <img  src="assets/img/Logo.png" alt="" />
-                            <span className="font-poppins lg:text-3xl xs:text-lg sm:text-xl font-bold leading-[30px] text-left" style={{ color: 'rgb(2, 46, 80)' }}>Quick</span >
-                            <span className="text-[#51B504] font-poppins lg:text-3xl xs:text-lg sm:text-xl font-bold leading-[30px] mr-[40px] text-left">Finds</span>
-                        </div>
-                        <span className="lg:text-3xl xs:text-lg sm:text-xl font-bold mr-[40px]">We Make Solutions Simple</span>
-
+                       
+                       
 
 
 
